@@ -1,2 +1,23 @@
-# Cube-Solver
-STM32F4ä¸»æŽ§é­”æ–¹æœºå™¨äººã€‚
+#Cube Solver-Ä§·½»úÆ÷ÈË
+Ò»¿îÐ¡ÇÉ¡¢¼òµ¥µÄÄ§·½»úÆ÷ÈË£¬¿ÉÒÔ½«ÈÎÒâ´òÂÒµÄÈý½×Ä§·½»¹Ô­¡£
+ÊÓÆµÁ´½Ó£º<https://v.youku.com/v_show/id_XNDgyOTU0NDA0MA>
+
+##ÌØµã
+ÓÅµã£º
+- Ìå»ýÐ¡ÇÉ£¬ÍâÐÎ³ß´ç½ö15x15x15(cm)£»
+- ½á¹¹¼òµ¥£¬ÔË¶¯»ú¹¹¼òµ¥ÓÐÐ§£¬·½±ãµ÷ÊÔ¼°¸ÄÐÍ£»
+- ³É±¾µÍÁ®£¬Ö÷Òª²¿¼þ¹º×ÔÌÔ±¦£¬¼Û¸ñÇ×Ãñ£¬¿ª·¢°å¼°´¥ÃþÆÁÍµÀÁÓÃÁËÊÖÍ·ÏÖÓÐµÄ£¬Õ¼ÓÃÁË³ÉÆ·µÄ´ó²¿·Ö³É±¾¿Õ¼ä£¬ÓÐ¿Õ¼ÌÐøÏòÏÂÑ¹Ëõ¡£
+
+È±µã£º
+- Ê¹ÓÃ´øÌùÖ½µÄÄ§·½Ê±£¬ÓÐÒ»¶¨¸ÅÂÊÔÚ·­¹öÊ±¿¨ÖÍ£»
+- ÑÕÉ«´«¸ÐÆ÷É¨ÃèÐ§ÂÊµÍ£¬É¨ÃèÑÕÉ«Ê±¼ä½Ï³¤Ó°Ïì¹Û¿´ÌåÑé£¬ºóÐø¿¼ÂÇÂò¸ö×î±ãÒËµÄOV7670ÉãÏñÍ·´úÌæ¡£
+
+##½âÄ§·½Ëã·¨
+Ëã·¨²ÉÓÃÒ»¸öËã·¨¾ºÈüÖÐµÚ3ÃûJaap ScherphuisµÄËã·¨£¬STM32F407½âËãÖ»ÐèÒª¼¸ÃëÖÓ£¬Ò»°ãÔÚ25-30²½×óÓÒ£¬ÎÒÏÂÔØÁËÁíÍâ¼¸¸öÓÅÐãµÄËã·¨£¬ÔÚcube algorithmsÎÄ¼þ¼ÐÀï¿ÉÒÔ¿´µ½£¬»òÕßµ½Õâ¸öÍøÒ³ÉÏÃæ²é¿´ÏêÇé<https://tomas.rokicki.com/cubecontest/>¡£
+
+##ÈýÎ¬Ä£ÐÍ
+»úÆ÷ÈËµÄ½á¹¹¼þ¶¼Ê¹ÓÃÈýÎ¬´òÓ¡»úÍê³É£¬³ýÁËµ××ùÍâ£¬ÆäÓà²¿¼þ¶¼ºÜÇáÇÉ£¬½á¹¹Õë¶ÔÈýÎ¬´òÓ¡»ú½øÐÐÁËÕë¶ÔÐÔÓÅ»¯¡£
+½¨Ä£Èí¼þÊ¹ÓÃUG8.5,Ä£ÐÍÊÇprt¸ñÊ½£¬Ê¹ÓÃÆäËûÈýÎ¬Èí¼þµÄ¿ÉÒÔÓÃstp¸ñÊ½µÄÄ£ÐÍ½øÐÐ¸ñÊ½×ª»»¡£
+
+##ÇëÁªÏµÎÒ
+ÎÒµÄÎ¢ÐÅºÅ`qq707165627`£¬Ï£Íû¿ÉÒÔÈÏÊ¶¸ü¶àÅóÓÑ£¬Ò»ÆðÌáÉý×Ô¼º£¬Õæ³ÏÆÚ´ýÓëÄúµÄ¹µÍ¨¡£
